@@ -59,9 +59,5 @@ c = a;
 a = b;
 b = c;
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 16fdb31d8f3ad4e395d7c31a2c0830afc7e52582
 console.log(a);
 console.log(b);
